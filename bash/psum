@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/jason/paper_agent/venv/bin/python3 ~/paper_agent/psump.py "$@"
